@@ -1,2 +1,4 @@
 
 learning how to use github.
+
+we can update the files with in the same branch using the edit option
