@@ -3,9 +3,13 @@ learning how to use github.
 
 we can update the files with in the same branch using the edit option
 
-continuing with current version update; leaving the branch for accommodating future changes.
+to test the branch and merging of various branches
 
+Done with proposed changes;
+ 
+continuing with current version update; leaving the branch for accommodating future changes.
 
 Thank you :)
 
 final copy
+
